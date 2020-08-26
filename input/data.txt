@@ -1,0 +1,2 @@
+To run the program, please download the data from https://www.kaggle.com/c/data-science-bowl-2018/data and place it in this folder
+
